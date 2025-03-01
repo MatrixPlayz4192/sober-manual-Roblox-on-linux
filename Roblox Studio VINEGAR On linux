@@ -1,7 +1,12 @@
-Here is a draft README.md file for setting up Roblox Studio with VinegarHQ on Linux:
+To create and paste the new `README.md` file in your repository, follow these steps:
 
----
+1. Go to your repository: [MatrixPlayz4192/sober-manual-Roblox-on-linux](https://github.com/MatrixPlayz4192/sober-manual-Roblox-on-linux)
+2. Click on the "Add file" button.
+3. Select "Create new file".
+4. Enter `README.md` as the filename.
+5. Copy and paste the following content into the editor:
 
+```
 # Roblox Studio with VinegarHQ on Linux
 
 ## Introduction
@@ -62,7 +67,9 @@ You can change the renderer to one of the following options:
 
 ## Support
 For further assistance, join the VinegarHQ support server on Discord: [VinegarHQ Discord](https://discord.com/invite/dzdzZ6Pps2)
+```
 
----
+6. Scroll down and add a commit message such as "Add README.md for Roblox Studio with VinegarHQ on Linux".
+7. Click the "Commit new file" button to save the file to your repository.
 
-You can create this file in your repository by navigating to the "Add file" button, selecting "Create new file," and pasting the content above into a new file named `README.md`.
+This will create and post the `README.md` file in your repository.
