@@ -49,5 +49,5 @@ flatpak uninstall --unused
 ## Contact Support
 If you need further assistance, please contact our support team:
 - Email: muradafan11@gmail.com
-- VinegarHQ Serer: 
+- VinegarHQ Serer: [Join VinegarHQ Official Discord](https://discord.gg/vinegarhq-1069506340973707304)
 - Discord Server: [Join our Discord](https://discord.gg/BahzvqnD)
