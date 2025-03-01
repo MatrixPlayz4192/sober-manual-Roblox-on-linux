@@ -1,7 +1,7 @@
 # Roblox Studio with VinegarHQ on Linux
 
 ## Introduction
-This guide will help you set up Roblox Studio using VinegarHQ on a Linux system. Follow the steps below to install necessary tools, configure performance FFLAGS, and get started.
+This guide will help you set up Roblox Studio using Vinegar Client on a Linux system. Follow the steps below to install necessary tools, configuring FFlags, and get started.
 
 ## Prerequisites
 1. Ensure you have Flatpak installed on your system. You can find installation instructions for your Linux distribution [here](https://flatpak.org/setup/).
