@@ -5,7 +5,7 @@ Welcome to the user manual for **Sober on Roblox**. This guide will help you ins
 [Sober Vinegar Official](https://sober.vinegarhq.org/)
 
 ## Flatpak Flathub supported distros here.
-(https://flathub.org/setup)
+https://flathub.org/setup
 
 ## How to Install Sober
 
