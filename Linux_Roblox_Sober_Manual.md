@@ -7,6 +7,11 @@ Welcome to the user manual for **Sober on Roblox**. This guide will help you ins
 ## Flatpak Flathub supported distros here.
 https://flathub.org/setup
 
+## Adding Flathub repository.
+```sh
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+```
+
 ## How to Install Sober
 
 To install Sober, use the following command:
