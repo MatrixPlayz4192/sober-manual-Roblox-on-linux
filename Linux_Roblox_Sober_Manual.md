@@ -27,6 +27,12 @@ To update Flatpak and all installed applications, use the following command:
 flatpak update
 ```
 
+# Sober FFlag config location
+```sh
+~/.var/app/org.vinegarhq.Sober/config/sober # location
+xdg-open ~/.var/app/org.vinegarhq.Sober/config/sober/config.json # open using terminal
+```
+
 ## How to Reset FFlags in Sober
 
 To reset the FFlags in Sober, you need to remove the configuration files and run Sober again. Use the following commands:
