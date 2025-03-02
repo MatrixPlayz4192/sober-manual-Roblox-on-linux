@@ -52,7 +52,7 @@ rm ~/.var/app/org.vinegarhq.Sober/config/sober/config.json
 flatpak run org.vinegarhq.Sober
 ```
 
-## How to Uninstall Sober
+## Uninstalling Sober
 
 To uninstall Sober and remove any unused dependencies, use the following commands:
 
