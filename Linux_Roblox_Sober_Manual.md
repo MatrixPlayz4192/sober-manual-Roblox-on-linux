@@ -7,7 +7,7 @@
 <body>
     <h1 align="center">
         <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Sober.png" width="40" alt="Logo"/> 
-         Sober (Roblox) on linux.
+         Sober (Roblox) on Linux.
     </h1>
 
 ## Introduction
