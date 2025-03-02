@@ -1,4 +1,4 @@
-# User Manual for Sober on Roblox
+# Sober tutorial user manual
 
 ## Introduction
 Welcome to the user manual for **Sober on Roblox**. This guide will help you install, run, update, reset, and uninstall Sober on a Linux system using Flatpak.
