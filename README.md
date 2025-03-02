@@ -24,9 +24,9 @@ To manually run Vinegar, use the command:
 flatpak run org.vinegarhq.Vinegar
 ```
 
-## Performance FFLAGS
+## Performance FFlags for Studio Vinegar
 
-Add the following FFLAGS to optimize Roblox Studio performance:
+Add the followings to optimize Roblox Studio (Vinegar) performance:
 
 ```ini
 [env]
