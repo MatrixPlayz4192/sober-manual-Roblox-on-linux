@@ -1,6 +1,5 @@
 ## Roblox studio on Linux (Vinegar)
 
-## Introduction
 An open-source, configurable, fast bootstrapper for running Roblox Studio on Linux, with fastflags at the end :).
 
 ## Prerequisites
