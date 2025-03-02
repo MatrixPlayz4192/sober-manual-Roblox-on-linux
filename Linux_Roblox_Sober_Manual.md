@@ -12,7 +12,7 @@ https://flathub.org/setup
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ```
 
-## How to Install Sober
+## Installing Sober
 
 To install Sober, use the following command:
 
@@ -20,7 +20,7 @@ To install Sober, use the following command:
 flatpak install --user https://sober.vinegarhq.org/sober.flatpakref
 ```
 
-## How to Run Sober on Linux
+## Running Sober
 
 To run Sober, use the following command:
 
@@ -28,7 +28,7 @@ To run Sober, use the following command:
 flatpak run org.vinegarhq.Sober
 ```
 
-## How to Update Flatpak
+## Updating flatpak
 
 To update Flatpak and all installed applications, use the following command:
 
