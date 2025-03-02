@@ -2,6 +2,7 @@
 
 ## Introduction
 Welcome to the user manual for **Sober on Roblox**. This guide will help you install, run, update, reset, and uninstall Sober on a Linux system using Flatpak.
+[Check their official site ](https://sober.vinegarhq.org/)
 
 ## How to Install Sober
 
