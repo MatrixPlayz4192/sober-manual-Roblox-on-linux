@@ -1,7 +1,7 @@
-# <img src="data/icons/vinegar.svg" alt="Vinegar logo" height="64px"> Roblox Studio on Linux (Vinegar)
+## Roblox studio on Linux (Vinegar)
 
 ## Introduction
-This guide will help you set up Roblox Studio using Vinegar Client on a Linux system. Follow the steps below to install necessary tools, configuring FFlags, and get started.
+An open-source, configurable, fast bootstrapper for running Roblox Studio on Linux, with fastflags at the end :).
 
 ## Prerequisites
 1. Ensure you have Flatpak installed on your system. You can find installation instructions for your Linux distribution [here](https://flatpak.org/setup/).
