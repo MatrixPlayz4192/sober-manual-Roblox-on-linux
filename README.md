@@ -1,4 +1,4 @@
-# Roblox Studio with VinegarHQ on Linux
+# Vinegar (Roblox Studio) on Linux.
 
 ## Introduction
 This guide will help you set up Roblox Studio using Vinegar Client on a Linux system. Follow the steps below to install necessary tools, configuring FFlags, and get started.
